@@ -1,0 +1,10 @@
+{
+	"manifest_version": 2,
+	"version": "0.1",
+	"name": "Link2Torrent",
+	"permissions": ["contextMenus", "http://htpc.local:9091/*"],
+	"icons": {"128": "transmission.png"},
+	"background": {
+		"page": "bg.html"
+	}
+}
